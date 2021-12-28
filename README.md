@@ -2,7 +2,7 @@
 <h3 align="center">Intento y consigo crear cosas increíbles.</h3>
 
 
-## Sobre mi:
+## Mis projectos:
 
 - Actualmente estoy trabajando en traer nuevas funcionalidades a mi bot **[Toolbi](https://discord.com/oauth2/authorize?client_id=774721071039250473&scope=bot&permissions=8)**.
 - También estoy intentando crear una buena **[Network de Minecraft](https://discord.hexagoncraft.net)**.
