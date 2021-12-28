@@ -1,13 +1,13 @@
 <h1 align="center">Hola, soy NEXZ.</h1>
-<h3 align="center">Intento crear cosas que puedan cambiar la vida de las personas.</h3>
+<h3 align="center">Intento y consigo crear cosas increíbles.</h3>
 
 
-## 👤 Sobre mi:
+## Sobre mi:
 
-- 🤖 Actualmente estoy trabajando en traer nuevas funcionalidades a mi bot **[Toolbi](https://discord.com/oauth2/authorize?client_id=774721071039250473&scope=bot&permissions=8)**.
-- 🌳 También estoy intentando crear una buena **[Network de Minecraft](https://discord.hexagoncraft.net)**
+- Actualmente estoy trabajando en traer nuevas funcionalidades a mi bot **[Toolbi](https://discord.com/oauth2/authorize?client_id=774721071039250473&scope=bot&permissions=8)**.
+- También estoy intentando crear una buena **[Network de Minecraft](https://discord.hexagoncraft.net)**.
 
-## 💻 Lenguajes y herramientas:
+## Lenguajes y herramientas:
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
