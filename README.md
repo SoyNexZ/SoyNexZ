@@ -19,6 +19,8 @@
 ## Sígueme en mis redes:
 <p align="left">
 
-<a href = "https://www.youtube.com/channel/UCRSyBK19WrU2CJOQ8kV5v9A?sub_confirmation=1"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://www.instagram.com/soynexz/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://twitter.com/soynexz"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.youtube.com/channel/UCRSyBK19WrU2CJOQ8kV5v9A?sub_confirmation=1"><img src="https://img.icons8.com/color/50/000000/youtube-play.png"/></a>
+<a href = "https://www.twitch.tv/soynexz"><img src="https://img.icons8.com/color/50/000000/twitch--v2.png"/>
+<a href = "https://www.instagram.com/soynexz/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/soynexz"><img src="https://img.icons8.com/fluent/50/000000/twitter.png"/></a>
+<a href = "https://discord.com/invite/Jc9sqNCnzX"><img src="https://img.icons8.com/color/50/000000/discord--v2.png"/></a>
