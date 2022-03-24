@@ -1,26 +1,20 @@
-<h1 align="center">Hola, soy NEXZ.</h1>
-<h3 align="center">Intento y consigo crear cosas increíbles.</h3>
+# Hola, me llamo **NEXZ**.
+#### Soy un desarrollador de Software, enfocado al desarrollo de aplicaciones simples pero útiles.
 
+## Proyectos.
+- [**HexagonCraft**](https://github.hexagoncraft.net/): La Network de Minecraft sin pay-to-win por excelencia.
+- [**Toolbi**](https://toolbi.tk/): El bot de Discord multifuncional y multi-idioma.
 
-## Mis projectos:
+## Lenguajes y herramientas.
 
-- Actualmente estoy trabajando en traer nuevas funcionalidades a mi bot **[Toolbi](https://discord.com/oauth2/authorize?client_id=774721071039250473&scope=bot&permissions=8)**.
-- También estoy intentando crear una buena **[Network de Minecraft](https://discord.hexagoncraft.net)**.
-
-## Lenguajes y herramientas:
-
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/50/000000/javascript.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/git.png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/node-js.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/maria-db.png"/> </a>
+<p align="left">
+    <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> 
+    <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="30" height="30"/> 
+    <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/> 
+    <a href="https://www.git.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="30" height="30"/>
 </p>
 
-## Sígueme en mis redes:
-<p align="left">
+## Conecta conmigo.
+<a href="https://www.twitter.com/soynexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/>
 
-<a href = "https://www.youtube.com/channel/UCRSyBK19WrU2CJOQ8kV5v9A?sub_confirmation=1"><img src="https://img.icons8.com/color/50/000000/youtube-play.png"/></a>
-<a href = "https://www.twitch.tv/soynexz"><img src="https://img.icons8.com/color/50/000000/twitch--v2.png"/>
-<a href = "https://www.instagram.com/soynexz/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png"/></a>
-<a href = "https://twitter.com/soynexz"><img src="https://img.icons8.com/fluent/50/000000/twitter.png"/></a>
-<a href = "https://discord.com/invite/Jc9sqNCnzX"><img src="https://img.icons8.com/color/50/000000/discord--v2.png"/></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soynexz&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
